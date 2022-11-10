@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="frost.com.launch_pad">
    <application
         android:label="LaunchPad"
         android:icon="@mipmap/ic_launcher">
@@ -34,4 +35,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
+    
+
 </manifest>
